@@ -1,6 +1,6 @@
-# 𝗔𝗗𝗛𝗢𝗟𝗢𝗞𝗔 𝗕𝗢𝗧
+# ᴀᴅʜᴏʟᴏᴋᴀ ʙᴏᴛ
 <div align="center">
-        <img border-radius: 15px src="https://i.imgur.com/QTcWjf7.jpg"/>
+        <img border-radius: 15px src="https://i.imgur.com/LDPcJfN.png"/>
 </p>
 
 
@@ -15,14 +15,14 @@ BOT IN UPDATING...📤
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="BASILSER" src="https://img.shields.io/badge/BASILSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BASILSER" src="https://img.shields.io/badge/ADHOLOKA BOT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/swabeeh-ser"><img title="Author" src="https://img.shields.io/badge/Author-UPDATING-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to make it public
+Project created by <a href="https://github.com/swabeeh-ser">swabeeh-ser</a> to make it public
     <br>
        | © |
         Reserved |
