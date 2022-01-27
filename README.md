@@ -1,15 +1,15 @@
-# 𝗖𝗔𝗧𝗕𝗢𝗧 𝗩1
+# 𝗔𝗗𝗛𝗢𝗟𝗢𝗞𝗔 𝗕𝗢𝗧
 <div align="center">
-        <img border-radius: 15px src="https://i.imgur.com/h0S3Z4D.png" width="200" height="200"/>
+        <img border-radius: 15px src="https://i.imgur.com/QTcWjf7.jpg"/>
 </p>
 
 
 ```
-BOT IN MAINTANCE📌
+BOT IN UPDATING...📤
 ```
 <div align="center">
 
-## [![catbots](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+catbots+WA+Bot+repo;Created+by+basil+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2305A3FF&lines=WELCOME+TO+ADHOLOKA+BOT+WA+BOT+REPO;CREATED+BY+SWABEEH+SER;THIS+IS+THE+BEST+BGM+BOT;WITH+MORE+FEATURES)](https://git.io/typing-svg)
 
  </a>
 </p>
